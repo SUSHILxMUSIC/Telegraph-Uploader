@@ -1,8 +1,8 @@
 # < (c) 2021 @Godmrunal >
 
 import logging
+import os
 from os import remove
-
 import requests
 from decouple import config
 from telethon import Button, TelegramClient, events
