@@ -1,4 +1,6 @@
 # < (c) 2021 @Godmrunal >
+#Developed by @Botz_Official
+#copy with credit
 
 import logging
 import os
