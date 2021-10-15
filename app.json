@@ -13,7 +13,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "2069114248:AAE6sWD1SoaKF1dTq9zX7VId9lEugPXtnS4"
         }
     },
     "buildpacks": [
