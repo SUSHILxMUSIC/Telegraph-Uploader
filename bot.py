@@ -43,7 +43,8 @@ async def start_(event):
             [Button.url("Channel", url="https://t.me/Botz_Official")],
         ],
     )
-@bot.on(events.NewMessage(incoming=True, (pattern="^/t(m|xt) ?(.*)")
+
+@bot.on(events.NewMessage(pattern="^/tm|/txt?(.*)"))
 async def _(event):
     if event.fwd_from:
         return
