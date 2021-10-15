@@ -44,7 +44,7 @@ async def start_(event):
         ],
     )
 
-@bot.on(events.NewMessage(pattern=""^/t(m|xt) ?(.*)"))
+@bot.on(events.NewMessage(pattern="^/t(m|xt) ?(.*)"))
 async def _(event):
     if event.fwd_from:
         return
