@@ -1,4 +1,5 @@
 python-decouple
 telethon
-htmlwebshot
 requests
+Pillow>=4.2.0
+telegraph
