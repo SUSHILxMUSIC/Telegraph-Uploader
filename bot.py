@@ -31,17 +31,17 @@ logging.info("Starting bot...")
 @bot.on(events.NewMessage(incoming=True, pattern="^/start"))
 async def start_(event):
     await event.reply(
-        "Hi {}!\nI am a simple bot. \n\n**Usage:** This bot will help to start first bot in python!".format(
+        "Hi {}!\nI am a Telegraph Uploader Bot . \n\n**Usage:** This bot will help to get Telegraph Link of Media or Text!".format(
             (await bot.get_entity(event.sender_id)).first_name
         ),
         buttons=[
             [
-                Button.url("Repo", url="https://github.com/msy1717/startBot"),
+                Button.url("Repo🌟", url="https://github.com/msy1717/Telegraph-Uploader"),
                 Button.url(
-                    "Developer", url="https://t.me/Godmrunal"
+                    "Developer⚡️", url="https://t.me/Godmrunal"
                 ),
             ],
-            [Button.url("Channel", url="https://t.me/Botz_Official")],
+            [Button.url("Channel🌈", url="https://t.me/Botz_Official")],
         ],
     )
 
