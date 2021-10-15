@@ -1,12 +1,12 @@
-# �Telegraph Uploader
- 𝐁𝐞𝐬𝐭 �Telegraph Uploader Bot to get telegraph link. 𝐁𝐲 @Botz_Official
+# Telegraph Uploader
+ 𝐁𝐞𝐬𝐭 Telegraph Uploader Bot to get telegraph link. 𝐁𝐲 @Botz_Official
  
  <p align="center">
   <img src="https://telegra.ph/file/406b09715dff3c55ca819.jpg">
 </p>
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/dangerousjatt/SpamBot-2.0?utm_source=github.com&utm_medium=referral&utm_content=dangerousjatt/SpamBot-2.0&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge]()](https://app.codacy.com/gh/dangerousjatt/SpamBot-2.0?utm_source=github.com&utm_medium=referral&utm_content=dangerousjatt/SpamBot-2.0&utm_campaign=Badge_Grade_Settings)
 [![Size](https://img.shields.io/github/repo-size/dangerousjatt/SpamBot-2.0?style=flat-square&color=green)](https://github.com/acexduke/EclipseSpamBots)   
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/acexduke/EclipseSpamBotsgraphs/commit-activity)
